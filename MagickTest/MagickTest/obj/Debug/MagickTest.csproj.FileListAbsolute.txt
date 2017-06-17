@@ -1,0 +1,5 @@
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Debug\MagickTest.csprojResolveAssemblyReference.cache
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Debug\MainWindow.g.cs
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Debug\App.g.cs
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Debug\MagickTest_MarkupCompile.cache
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Debug\MagickTest_MarkupCompile.lref

@@ -1,0 +1,21 @@
+﻿<Window x:Class="MagickTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MagickTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Loaded="Window_Loaded" Background="{DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}">
+    <Grid>
+        <Rectangle x:Name="bgRectangle"></Rectangle>
+        <Image x:Name="targetImage" VerticalAlignment="Center" HorizontalAlignment="Center" ></Image>
+
+        <WrapPanel Height="40" VerticalAlignment="Top" Background="#B2000000">
+            <Button Content="ファイルを開く" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click"/>
+            <Label x:Name="label" Content="Label" Canvas.Left="90" Canvas.Top="10" VerticalContentAlignment="Stretch" Margin="10,0,0,0" FontSize="18" Foreground="White"/>
+
+        </WrapPanel>
+
+
+    </Grid>
+</Window>

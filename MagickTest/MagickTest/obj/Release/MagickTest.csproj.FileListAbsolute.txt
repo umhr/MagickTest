@@ -1,0 +1,15 @@
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\bin\Release\MagickTest.exe.config
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\bin\Release\MagickTest.exe
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\bin\Release\MagickTest.pdb
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\bin\Release\Magick.NET-Q16-AnyCPU.dll
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\bin\Release\Magick.NET-Q16-AnyCPU.xml
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\MainWindow.g.cs
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\App.g.cs
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\MagickTest_MarkupCompile.cache
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\MagickTest_MarkupCompile.lref
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\MainWindow.baml
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\MagickTest.g.resources
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\MagickTest.Properties.Resources.resources
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\MagickTest.csproj.GenerateResource.Cache
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\MagickTest.exe
+C:\Users\bxi5\Dropbox\works\170307pana8k\test\MagickTest\MagickTest\obj\Release\MagickTest.pdb
